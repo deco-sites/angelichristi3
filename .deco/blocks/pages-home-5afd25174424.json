@@ -1,0 +1,46 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Hero.tsx",
+        "title": "<p>Angeli Christi</p>",
+        "cta": [],
+        "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away.",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/angelichristi/7c4536c9-b270-4887-90c6-0d59f80936a2/Imagen-de-WhatsApp-2024-12-12-a-las-23.12.18_dd35ef22.webp"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx",
+      "arrows": true
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

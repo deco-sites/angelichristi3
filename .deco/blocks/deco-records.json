@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://angelichristi-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "5b95d37a69be9851194ad355b76e45c36841bf2ae6d9dc9a3263d274738eb7778169e1fe2abad988fc172c20e8a379d7a9b447c08e10048119128d02a15cd18979c3659dcf1ea3f5242f7707d13dd90f7f133c43d95d979bc7fa5a5dd381ac7178e2b6a5a808d8ac8ed4ec24af3195bdf703e8b9200fd1c6e499c84c9f7d42a88171e843c09fe5cbb87ab8230acabd4930debe0df813198a32cc0c58d1d00cfe0c574578b3c2b21995ac9a8f516b4cafd0faaf97a3121fe3b60af228a7445e08ee8a0f8ae4fb9908cd00ba4ed9a5f61a377f8f933c13e9eace4d83ae0a6881eb"
+  }
+}
